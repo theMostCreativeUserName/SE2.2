@@ -19,7 +19,7 @@
 Änderungen durchführen:
 + wenn ihr etwas an dem Projekt gändert habet, könnt ihr die geänderten Dateien mit dem Befehl **git status** einsehen
 + um die Änderungen auf dieses GitHub-Repo hochzuladen müsst ihr
-  1. in eurem lokalen git-Repo die hochzuladenen Dateien per **git add <dateiname>** (oder *git add .*, wenn alle geänderten Dateien hocgeladen werden sollen) in den Modus **Staged** setzen
+  1. in eurem lokalen git-Repo die hochzuladenen Dateien per **git add <dateiname>** (oder *git add .*, wenn alle geänderten Dateien hochgeladen werden sollen) in den Modus **Staged** setzen
   1. alle Staged Dateien könnt ihr mit **git commit** als einen upload speichern
         + nachdem ihr diesen Befehl ausführt wird sich ein Editor-Fenster (meistens Nano) öfnen in dem ihr eine passende Commit-Nachricht für den Commit schreiben müsst.
   1. diese Commits könnt ihr dann mit **git push** auf das gitHub-REpo hochladen

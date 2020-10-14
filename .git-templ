@@ -1,0 +1,25 @@
+
+#<Folder/Class>:<Type><Subject>[WIP]
+ 
+
+# To have a better overview over what is actually don in the project     
+# Please use these guidelines to format all your commit     
+# messages:
+# 
+#     <Folder/Class>: describes the scope, so everyone knwos where something was changed
+#     <Type>	      describes the kind of change that this commit is   
+#               	 providing. Allowed types are:
+#             		* feat (feature)
+#             		* fix (bug fix)
+#             		* docs (documentation)
+#             		* style (formatting, missing semicolons, …)
+#             		* refactor
+#             		* test (when adding missing tests)
+#             		* chore (maintain)
+#			* new
+#     <subject>	      is a very short description of the change
+#
+#  The Header in total should have a maximum length of 70 characters 
+#  The second line (onwards)  or Body can be used to further describe the commit 
+# 
+# Thank you <3
