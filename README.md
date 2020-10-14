@@ -1,5 +1,5 @@
 # SE2.2
-# Tests
+
 ## Gliederung
 1. Git
 2. JavaDoc
